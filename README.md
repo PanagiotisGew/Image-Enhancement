@@ -1,1 +1,1 @@
-This is a project in Python for image enhancement. I am using streamlit to make this better and easier for you make. 
+This is a project in Python for image enhancement. I am using streamlit to make this better and easier for you make. This is a webapp but i also made it as an executable. The link is that: https://apbletsas-imageenhacementsapp-imenhapp-fer6za.streamlit.app/
