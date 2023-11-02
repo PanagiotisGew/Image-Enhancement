@@ -41,9 +41,10 @@ Streamlit: For building the web interface.
 OpenCV: For image processing and manipulation.
 NumPy: For numerical operations.
 
-License
+License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+Acknowledgments:
+
 Special thanks to the Streamlit and OpenCV communities for their excellent documentation and resources.
 Feel free to modify this README to include any additional information, such as troubleshooting tips or additional acknowledgments. Good luck with your GitHub repository!
