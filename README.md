@@ -47,4 +47,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments:
 
 Special thanks to the Streamlit and OpenCV communities for their excellent documentation and resources.
-Feel free to modify this README to include any additional information, such as troubleshooting tips or additional acknowledgments. Good luck with your GitHub repository!
+
