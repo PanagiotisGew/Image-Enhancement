@@ -2,6 +2,8 @@ Image Enhancement App
 
 Authors: Georgiadis Panagiotis & Bletsas Apostolos.
 
+Link: https://apbletsas-imageenhacementsapp-imenhapp-fer6za.streamlit.app/
+
 This is a simple web application built using Streamlit and OpenCV that allows users to enhance and transform images. The app provides several image processing options, including blur filters, contrast adjustment, brightness adjustment, color balance, grayscale enhancement, and even cartoonization.
 
 Features: 
